@@ -31,8 +31,8 @@
             <hr class="my-4">
             <p class="lead">
                 <p>We only have 5 tables left! Book your seats before they are all gone!</p>
-                <a class="btn btn-primary btn-lg" href="#" role="button">View tables</a>
-                <a class="btn btn-primary btn-lg" href="#" role="button">Make a Reservation</a>
+                <a class="btn btn-primary btn-lg" href="/tables" role="button">View tables</a>
+                <a class="btn btn-primary btn-lg" href="/reserve" role="button">Make a Reservation</a>
             </p>
         </div>
     </div>
